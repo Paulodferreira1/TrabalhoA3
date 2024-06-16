@@ -1,6 +1,8 @@
-TRABALHO A 3
+<h1 align="center"> TRABALHO A3</h1>
 
-Paulo Daniel 
-Vinicius Gonçalves
-Islan Samuel 
-Iago Gomes
+## 💻 EQUIPE
+
+-Paulo Daniel 
+-Vinicius Gonçalves
+-Islan Samuel 
+-Iago Gomes
