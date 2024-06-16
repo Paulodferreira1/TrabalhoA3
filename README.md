@@ -6,4 +6,4 @@
 -Vinicius Gonçalves
 -Islan Samuel 
 -Iago Gomes
-<p>
+</p>
